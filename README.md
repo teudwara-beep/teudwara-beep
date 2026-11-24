@@ -5,8 +5,15 @@
 <h1 align="center">Hi, I'm Theekz</h1>
 
 <p align="center">
-  Web development · C++ · Game security<br>
+  I build web apps and like figuring out what the compiler does with my code.<br>
   <img src="assets/violet-glint.gif" width="128" height="16" alt="">
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/compiler-preview.png">
+    <img src="assets/compiler-preview.gif" width="660" alt="Compiler output demo. A C++ function returning 6 × 7 becomes mov eax, 42 followed by ret in x86-64 assembly.">
+  </picture>
 </p>
 
 ## Tech stack
@@ -17,6 +24,7 @@
   <img src="assets/stack/typescript.png" width="120" alt="TypeScript">
   <img src="assets/stack/javascript.png" width="119" alt="JavaScript">
   <img src="assets/stack/cplusplus.png" width="75" alt="C++">
+  <img src="assets/stack/assembly.png" width="115" alt="Assembly">
   <img src="assets/stack/sql.png" width="78" alt="SQL">
   <img src="assets/stack/html.png" width="88" alt="HTML">
   <img src="assets/stack/css.png" width="78" alt="CSS">
@@ -49,13 +57,14 @@
   <img src="assets/stack/vercel.png" width="91" alt="Vercel">
 </p>
 
-**C++ & game security tools**
+**Build & debug tools**
 
 <p>
   <img src="assets/stack/cmake.png" width="94" alt="CMake">
   <img src="assets/stack/visual-studio.png" width="138" alt="Visual Studio">
   <img src="assets/stack/windbg.png" width="102" alt="WinDbg">
   <img src="assets/stack/process-explorer.png" width="164" alt="Process Explorer">
+  <img src="assets/stack/compiler-explorer.png" width="170" alt="Compiler Explorer">
 </p>
 
 ## GitHub activity
