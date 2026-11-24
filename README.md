@@ -4,27 +4,10 @@
 
 <h1 align="center">Hi, I'm Theekz</h1>
 
-<p align="center">I build web apps and like figuring out how software works, from what people see on screen to what a program does in memory.</p>
-
 <p align="center">
-  <a href="#web-development"><img src="assets/focus/web.png" width="179" alt="Web development"></a>
-  <a href="#c-and-systems"><img src="assets/focus/systems.png" width="160" alt="C++ and systems"></a>
-  <a href="#game-security-and-anti-cheat"><img src="assets/focus/game-security.png" width="157" alt="Game security and anti-cheat"></a>
+  Web development · C++ · Game security<br>
+  <img src="assets/violet-glint.gif" width="128" height="16" alt="">
 </p>
-
-## What I work on and explore
-
-### Web development
-
-I reach for TypeScript and React on most web projects. I like working through the whole thing, from a layout that feels right on a phone to what happens after someone submits a form.
-
-### C++ and systems
-
-I’m curious about what a program is doing while it runs. In C++, that means paying attention to how long objects live, how processes use memory, and what a debugger can tell me on Windows.
-
-### Game security and anti-cheat
-
-I’m interested in what it takes to keep competitive games fair. The questions I find most interesting are what the server should verify, how to tell when something is genuinely suspicious, and how to avoid flagging legitimate players.
 
 ## Tech stack
 
@@ -64,6 +47,15 @@ I’m interested in what it takes to keep competitive games fair. The questions 
   <img src="assets/stack/vite.png" width="75" alt="Vite">
   <img src="assets/stack/docker.png" width="96" alt="Docker">
   <img src="assets/stack/vercel.png" width="91" alt="Vercel">
+</p>
+
+**C++ & game security tools**
+
+<p>
+  <img src="assets/stack/cmake.png" width="94" alt="CMake">
+  <img src="assets/stack/visual-studio.png" width="138" alt="Visual Studio">
+  <img src="assets/stack/windbg.png" width="102" alt="WinDbg">
+  <img src="assets/stack/process-explorer.png" width="164" alt="Process Explorer">
 </p>
 
 ## GitHub activity
