@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Theekz</h1>
 
 <p align="center">
-  I build web apps and get curious about the little things, like what makes an animation feel right or what the compiler does with my code.<br>
+  I like reading compiler output and stepping through code to see what it actually does.<br>
   <img src="assets/violet-glint.gif" width="128" height="16" alt="">
 </p>
 
@@ -20,63 +20,84 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/css-motion.png">
-    <img src="assets/css-motion.gif" width="660" alt="CSS motion demo. Both dots finish together, but the ease-out dot is about 68% along its track halfway through the animation, compared with 50% for the linear dot.">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/memory-view.png">
+    <img src="assets/memory-view.gif" width="660" alt="Little-endian memory view. The 32-bit value 0x12345678 is stored as bytes 78 56 34 12, from lower to higher addresses.">
   </picture>
 </p>
 
-## Tech stack
+## Systems tools
 
 **Languages**
 
 <p>
-  <img src="assets/stack/typescript.png" width="120" alt="TypeScript">
-  <img src="assets/stack/javascript.png" width="119" alt="JavaScript">
   <img src="assets/stack/cplusplus.png" width="75" alt="C++">
   <img src="assets/stack/assembly.png" width="115" alt="Assembly">
+</p>
+
+**Compilers & assemblers**
+
+<p>
+  <img src="assets/stack/gcc.png" width="80" alt="GCC">
+  <img src="assets/stack/clang.png" width="88" alt="Clang">
+  <img src="assets/stack/msvc.png" width="88" alt="MSVC">
+  <img src="assets/stack/nasm.png" width="90" alt="NASM">
+  <img src="assets/stack/compiler-explorer.png" width="170" alt="Compiler Explorer">
+</p>
+
+**Build & debug**
+
+<p>
+  <img src="assets/stack/cmake.png" width="94" alt="CMake">
+  <img src="assets/stack/ninja.png" width="83" alt="Ninja">
+  <img src="assets/stack/visual-studio.png" width="138" alt="Visual Studio">
+  <img src="assets/stack/windbg.png" width="102" alt="WinDbg">
+  <img src="assets/stack/gdb.png" width="80" alt="GDB">
+  <img src="assets/stack/lldb.png" width="86" alt="LLDB">
+</p>
+
+**Diagnostics**
+
+<p>
+  <img src="assets/stack/addresssanitizer.png" width="163" alt="AddressSanitizer">
+  <img src="assets/stack/process-explorer.png" width="164" alt="Process Explorer">
+  <img src="assets/stack/process-monitor.png" width="159" alt="Process Monitor">
+</p>
+
+**Version control & environments**
+
+<p>
+  <img src="assets/stack/git.png" width="68" alt="Git">
+  <img src="assets/stack/github.png" width="96" alt="GitHub">
+  <img src="assets/stack/docker.png" width="96" alt="Docker">
+</p>
+
+<details>
+<summary>Web stack</summary>
+
+<p>
+  <img src="assets/stack/typescript.png" width="120" alt="TypeScript">
+  <img src="assets/stack/javascript.png" width="119" alt="JavaScript">
   <img src="assets/stack/sql.png" width="78" alt="SQL">
   <img src="assets/stack/html.png" width="88" alt="HTML">
   <img src="assets/stack/css.png" width="78" alt="CSS">
 </p>
-
-**Web development**
 
 <p>
   <img src="assets/stack/nextjs.png" width="95" alt="Next.js">
   <img src="assets/stack/react.png" width="87" alt="React">
   <img src="assets/stack/tailwindcss.png" width="137" alt="Tailwind CSS">
   <img src="assets/stack/framer-motion.png" width="146" alt="Framer Motion">
-  <img src="assets/stack/react-hook-form.png" width="165" alt="React Hook Form">
-  <img src="assets/stack/zod.png" width="75" alt="Zod">
 </p>
-
-**Databases & backend**
 
 <p>
   <img src="assets/stack/postgresql.png" width="129" alt="PostgreSQL">
   <img src="assets/stack/supabase.png" width="115" alt="Supabase">
-</p>
-
-**Tools & deployment**
-
-<p>
-  <img src="assets/stack/git.png" width="68" alt="Git">
-  <img src="assets/stack/github.png" width="96" alt="GitHub">
   <img src="assets/stack/pnpm.png" width="87" alt="pnpm">
   <img src="assets/stack/vite.png" width="75" alt="Vite">
-  <img src="assets/stack/docker.png" width="96" alt="Docker">
   <img src="assets/stack/vercel.png" width="91" alt="Vercel">
 </p>
 
-**Build & debug tools**
-
-<p>
-  <img src="assets/stack/cmake.png" width="94" alt="CMake">
-  <img src="assets/stack/visual-studio.png" width="138" alt="Visual Studio">
-  <img src="assets/stack/windbg.png" width="102" alt="WinDbg">
-  <img src="assets/stack/process-explorer.png" width="164" alt="Process Explorer">
-  <img src="assets/stack/compiler-explorer.png" width="170" alt="Compiler Explorer">
-</p>
+</details>
 
 ## GitHub activity
 
