@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="assets/theekz-banner.png" width="100%" alt="Theekz — a lavender wordmark beside a glowing planet in a starry sky">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/theekz-banner.png">
+    <source type="image/webp" srcset="assets/theekz-orbit.webp">
+    <img src="assets/theekz-banner.png" width="100%" alt="Theekz — a lavender wordmark beside a purple ringed planet">
+  </picture>
 </p>
 
 <h1 align="center">Hi, I'm Theekz</h1>
