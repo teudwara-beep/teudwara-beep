@@ -4,9 +4,27 @@
 
 <h1 align="center">Hi, I'm Theekz</h1>
 
-Most of what I build is for the web. I like getting a layout to feel right on a phone, then figuring out the forms and data that make it work.
+<p align="center">I build web apps and like figuring out how software works, from what people see on screen to what a program does in memory.</p>
 
-Outside the browser, I’m interested in C++ and how things like data structures and memory work.
+<p align="center">
+  <a href="#web-development"><img src="assets/focus/web.png" width="179" alt="Web development"></a>
+  <a href="#c-and-systems"><img src="assets/focus/systems.png" width="160" alt="C++ and systems"></a>
+  <a href="#game-security-and-anti-cheat"><img src="assets/focus/game-security.png" width="157" alt="Game security and anti-cheat"></a>
+</p>
+
+## What I work on and explore
+
+### Web development
+
+I reach for TypeScript and React on most web projects. I like working through the whole thing, from a layout that feels right on a phone to what happens after someone submits a form.
+
+### C++ and systems
+
+I’m curious about what a program is doing while it runs. In C++, that means paying attention to how long objects live, how processes use memory, and what a debugger can tell me on Windows.
+
+### Game security and anti-cheat
+
+I’m interested in what it takes to keep competitive games fair. The questions I find most interesting are what the server should verify, how to tell when something is genuinely suspicious, and how to avoid flagging legitimate players.
 
 ## Tech stack
 
