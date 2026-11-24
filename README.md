@@ -5,14 +5,23 @@
 <h1 align="center">Hi, I'm Theekz</h1>
 
 <p align="center">
-  I build web apps and like figuring out what the compiler does with my code.<br>
+  I build web apps and get curious about the little things, like what makes an animation feel right or what the compiler does with my code.<br>
   <img src="assets/violet-glint.gif" width="128" height="16" alt="">
 </p>
+
+## Small experiments
 
 <p align="center">
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="assets/compiler-preview.png">
     <img src="assets/compiler-preview.gif" width="660" alt="Compiler output demo. A C++ function returning 6 × 7 becomes mov eax, 42 followed by ret in x86-64 assembly.">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/css-motion.png">
+    <img src="assets/css-motion.gif" width="660" alt="CSS motion demo. Both dots finish together, but the ease-out dot is about 68% along its track halfway through the animation, compared with 50% for the linear dot.">
   </picture>
 </p>
 
@@ -30,13 +39,15 @@
   <img src="assets/stack/css.png" width="78" alt="CSS">
 </p>
 
-**Frameworks & UI**
+**Web development**
 
 <p>
   <img src="assets/stack/nextjs.png" width="95" alt="Next.js">
   <img src="assets/stack/react.png" width="87" alt="React">
   <img src="assets/stack/tailwindcss.png" width="137" alt="Tailwind CSS">
   <img src="assets/stack/framer-motion.png" width="146" alt="Framer Motion">
+  <img src="assets/stack/react-hook-form.png" width="165" alt="React Hook Form">
+  <img src="assets/stack/zod.png" width="75" alt="Zod">
 </p>
 
 **Databases & backend**
