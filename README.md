@@ -1,16 +1,21 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/theekz-banner.png" width="100%" alt="Theekz — a lavender wordmark beside a glowing planet in a starry sky">
+</p>
 
-<!--
-**teudwara-beep/teudwara-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey, I'm Theekz</h1>
 
-Here are some ideas to get you started:
+<p align="center">I build lofi-inspired web experiences around gaming and music.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://theekz.vercel.app"><strong>Visit my site ↗</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/teudwara-beep/v0-calm-gamer-profile">View the code</a>
+</p>
+
+## Featured project
+
+**[Theekz — Gamer Profile](https://github.com/teudwara-beep/v0-calm-gamer-profile)**
+
+A personal gaming site with an animated backdrop, live Discord presence, Spotify now playing, and VALORANT rank updates while I'm in-game.
+
+Built with **Next.js**, **React**, **TypeScript**, **Tailwind CSS**, and **Framer Motion**.
